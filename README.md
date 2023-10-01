@@ -1,3 +1,4 @@
+
 # Movie Pitch
 
 Welcome to Movie Pitch, where you can turn your movie ideas into captivating titles, synopses, and even cast choices with the help of AI! Get ready to unleash your creativity and bring your movie concepts to life.
@@ -27,7 +28,7 @@ To run this project locally or integrate it into your own application, follow th
 1. Clone the repository to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/oliveberch/moviePitch>
 ```
 
 2. Open the `index.html` file in your preferred web browser.
@@ -50,11 +51,12 @@ While developing this project, I learned the following valuable lessons:
 
 - **UI/UX Design**: I gained insights into creating visually appealing and responsive user interfaces to enhance the user experience.
 
-## Connect with Me
+
+## Reach out
 
 I'm excited to share this project with you! Feel free to check it out [here](https://github.com/oliveberch/MoviePitch) and connect with me for any feedback, questions, or collaboration opportunities. Let's bring more creativity to the world of cinema together!
 
-- GitHub: [YourGitHubUsername](https://github.com/oliveberch)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/oliveberch)
+- GitHub: [oliveberch](https://github.com/oliveberch)
+- LinkedIn: [Archit Gupta](https://www.linkedin.com/in/oliveberch)
 
 Happy movie pitching! 🎬🍿
